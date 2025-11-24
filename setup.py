@@ -5,7 +5,7 @@ with open("README.md", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="stream2sentence", 
-    version="0.3.2",
+    version="0.2.2",
     author="VcCart",
     author_email="Vasya_Pupkin@web.com",
     description="Real-time processing and delivery of sentences from a continuous stream of characters or text chunks.",
